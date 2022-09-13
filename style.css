@@ -1,0 +1,66 @@
+html, body {
+    max-width: 1023px;
+    background-color: rgb(255, 234, 176);
+    margin: auto;
+    padding: 0;
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 5px;
+    padding: 0;
+}
+section {
+    margin-bottom: 2em;
+}
+
+.fokep {
+    width: 500px;
+}
+
+.kozepdiv {
+    width: 1023;
+    margin: auto;
+}
+
+.centerTable {
+    margin: auto;
+    width: 1023px;
+}
+
+.bal {
+    float: left;
+}
+
+.jobb {
+    float: right;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    background-color: rgb(74, 63, 49);
+    color: rgb(255, 255, 255);
+}
+
+.velemenyezo {
+    color:burlywood;
+}
+
+.velemeny {
+    color: azure;
+}
+
